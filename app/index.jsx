@@ -10,6 +10,4 @@ class Main extends React.Component {
   }
 }
 
-// let app = document.createElement('div');
-// document.body.appendChild(app);
 ReactDOM.render(<Main />, document.getElementById("app"));
