@@ -44,7 +44,8 @@ module.exports = {
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
     new HtmlwebpackPlugin({
-      title: 'My app'
+      title: 'My app',
+      template: 'index.ejs'
     })
   ]
 };
