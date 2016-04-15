@@ -1,2 +1,2 @@
-# react-starter
-Minimal React starter kit with Webpack and Babel 6
+# Inline Poznan
+Interactive map with inline skating routes.
